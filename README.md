@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jaiden123465
+- 👋 Hi, I’m Jaiden Richard
 - 👀 I’m interested in C and C++ programming language. 
 - 🌱 I’m currently learning C programming.
 - 💞️ I’m looking to collaborate on making games 
